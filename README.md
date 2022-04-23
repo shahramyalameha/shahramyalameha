@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahramyalameha
+- 👋 Hi, I’m Shahram Yalameha
 - 👀 I’m interested in Quantum nontrivial materials, Mechanical properties,and High-performance thermoelectric materials.
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on nontrivial topological materials
