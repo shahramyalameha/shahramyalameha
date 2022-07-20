@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Shahram Yalameha
-- 👀 I’m interested in Quantum nontrivial materials, Mechanical properties,and High-performance thermoelectric materials.
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on nontrivial topological materials
-- 📫 How to reach me yalameha93@gmail.com
-    <a
+- 👋 Hi, I’m Shahram Yalameha  <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0002-9873-5659"
@@ -16,6 +11,11 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-9873-5659
     </a>
+- 👀 I’m interested in Quantum nontrivial materials, Mechanical properties,and High-performance thermoelectric materials.
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on nontrivial topological materials
+- 📫 How to reach me yalameha93@gmail.com
+   
 <!---
 shahramyalameha/shahramyalameha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
