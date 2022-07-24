@@ -20,9 +20,20 @@
 shahramyalameha/shahramyalameha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github-readme-stats.vercel.app/api?username=shahramyalameha)
 <br />
-
+<h2 align="center">My Contributions</h2>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shahramyalameha&show_icons=true&theme=tokyonight"> </td>
+       <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahramyalameha&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 ### Languages and Tools:
 
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -32,3 +43,10 @@ You can click the Preview link to take a look at your changes.
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 
 <br />
+<h2>A Graphical Overview of my Activity</h2>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=shahramyalameha&theme=github"></img>
+
+<br>
+<br>
+<h2>Random Programming Quote</h2>
